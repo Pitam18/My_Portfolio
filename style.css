@@ -1,0 +1,418 @@
+*
+{
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+.portfolio
+{
+	text-align: center;
+	font-size: 60px;
+   background: -webkit-linear-gradient(red, white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border-bottom: 5px solid white;
+  
+}
+.port 
+{
+	background-color: black;
+}
+.container
+{
+	background-color: black;
+	display: flex;
+	height: 700px;
+}
+.col-1
+{
+	color: white;
+	flex: 50%;
+}
+.col-2
+{
+	flex: 50%;
+	text-align: center;
+	
+}
+.photo
+{
+   width: 70%;
+   height: 80%;
+   margin-top: 70px;
+   box-shadow: 2px 2px 5px 5px white;
+   border-radius: 10px;
+   padding: 5px;
+} 
+.welcome
+{
+	font-size: 80px;
+	text-align: center;
+	margin-top: 20%;
+	text-shadow: 0 0 10px #FF0000, 0 0 10px #0000FF;
+}
+.name
+{
+	font-size: 40px;
+	text-align: center;
+	border-bottom: 5px solid white;
+	margin-top: 24%;
+}
+.education
+{
+	text-align: center;
+   color: white;
+  border-bottom: 5px solid red;
+  border-top: 5px solid red;
+  background-color: black;
+}
+.container-1
+{
+	display: flex;
+	height: 500px;
+	background-color: black;
+	padding: 20px;
+}
+.col-3
+{
+	background-color:black;
+	flex:33%;
+	text-align: center;
+	padding:80px;	
+	border: 15px solid white;
+	border-radius: 40px;
+	box-shadow: 2px 2px 2px 2px gray;
+}
+.col-4
+{
+	background-color:black;
+	flex: 33%;
+	text-align: center;	
+	padding-top:80px;
+	border: 15px solid white;	
+	border-radius: 40px;
+	box-shadow: 2px 2px 2px 2px gray;
+	margin-left:20px;
+}
+.col-5
+{
+	background-color:black;
+	flex: 34%;
+	text-align: center;		
+	padding:80px;
+	border: 15px solid white;
+	border-radius: 40px;
+	box-shadow: 2px 2px 2px 2px gray;
+	margin-left:20px;
+}
+.school
+{
+	width:150px;
+	height:150px;
+}
+.college
+{
+	width:150px;
+	height:150px;
+}
+.university
+{
+	width:150px;
+	height:150px;
+}
+.skl
+{
+	background-color: black;
+}
+.skills
+{
+	text-align: center;
+   color:white;
+  border-bottom: 5px solid red;
+  border-top: 5px solid red ;
+}
+.container-2
+{
+	display: flex;
+	height: 300px;
+	background-color:black;
+   padding: 20px;
+}
+.col-6
+{
+	background-color:black;
+	flex: 25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+	
+}
+.col-7
+{
+	background-color:black;
+	flex: 25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+   margin-left:20px;
+}
+.col-8
+{
+	background-color:black;
+	flex: 25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+   margin-left:20px;
+}
+.col-9
+{
+	background-color:black;
+	flex: 25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+	margin-left:20px;
+}
+.container-3
+{
+	display:flex;
+	height:300px;
+	background-color:black;
+	 padding: 20px;
+}
+.col-10
+{
+	background-color:black;
+	flex:25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+
+}
+.col-11
+{
+	background-color:black;
+	flex:25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+   margin-left:20px;
+}
+.col-12
+{
+	background-color:black;
+	flex:25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+	margin-left:20px;
+}
+.col-13
+{
+	background-color:black;
+	flex:25%;
+	text-align: center;		
+	padding:50px;
+	border: 5px solid white;
+	border-radius: 10%;
+	box-shadow: 2px 2px 2px 2px gray;
+	margin-left:20px;
+}
+.html
+{
+	width:100px;
+	height:100px;
+}
+.css
+{
+	width:100px;
+	height:100px;
+}
+.js
+{
+	width:100px;
+	height:100px;
+}
+.rj
+{
+	width:100px;
+	height:100px;
+}
+.wp
+{
+	width:100px;
+	height:100px;
+}
+.tcss
+{
+	width:100px;
+	height:100px;
+}
+.fig
+{
+	width:100px;
+	height:100px;
+}
+.c
+{
+	width:100px;
+	height:100px;
+}
+.pd
+{
+	
+	background-color: black;
+}
+.personal
+{
+	text-align: center;
+   color:white;
+  border-bottom: 5px solid red;
+  border-top: 5px solid red;
+}
+.Details
+{
+		padding-left: 50px;
+		background: black;
+		color: white;
+		padding: 50px;
+}
+.ws
+{
+	
+	background-color: black;
+}
+.work
+{
+	text-align:center;
+   color:white;
+  border-bottom: 5px solid red;
+  border-top: 5px solid red;
+}
+.sample
+{
+ 	text-align:center;
+}
+a 
+{
+   color:white;
+	text-decoration: none;
+}
+.samp1 
+{
+	
+	background: black;
+	height: 50px;
+   padding-top:8px;
+}
+.samp1:hover 
+{
+  background: white;
+  color: black;
+}
+.samp2 
+{
+   height: 50px;
+   padding-top:8px;
+	background: black;
+
+}
+.samp2:hover 
+{
+  background: white;
+  color: black;
+}
+.samp3
+{
+   height: 50px;
+   padding-top:8px;
+	background: black;
+
+}
+.samp3:hover 
+{
+  background: white;
+  color: black;
+}
+.samp4
+{
+   height: 50px;
+   padding-top:8px;
+	background: black;
+
+}
+.samp4:hover 
+{
+  background: white;
+  color: black;
+}
+.samp5 
+{
+   height: 50px;
+   padding-top:8px;
+	background: black;
+
+}
+.samp5:hover 
+{
+  background: white;
+  color: black;
+}
+.copy
+{ 
+	background-color: black;
+	text-align: center;
+   color:white;
+   height: 100px;
+  border-top: 5px solid red;
+  padding-top: 25px;
+}
+.ab
+{
+	
+	background-color: black;
+}
+.about
+{
+	text-align: center;
+   color:white;
+  border-bottom: 5px solid red;
+  border-top: 5px solid red;
+}
+.post
+{
+	
+	background-color: black;
+	padding-bottom: 20px;
+}
+.dev
+{
+	text-align: center;
+   color:white;
+  border-bottom: 5px solid white;
+  font-size: 50px;
+ 
+}
+
+p
+{
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	padding: 50px;
+}
